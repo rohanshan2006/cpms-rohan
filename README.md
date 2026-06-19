@@ -89,7 +89,7 @@ The **College Placement Management System** is a web application designed to str
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/moinmn/college-placement-management-system.git
+git clone https://github.com/rohanshandilya/college-placement-management-system.git
 cd college-placement-management-system
 ```
 
